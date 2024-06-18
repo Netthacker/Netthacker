@@ -7,7 +7,7 @@ Hello! I am Lucas Brigido, a developer passionate about creating innovative and 
 Here are some of the main technologies and tools I work with:
 
 <!-- Technology images -->
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -45,11 +45,12 @@ Brief description of the project.
 <!-- GitHub contribution image -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- Commit language graph -->
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=radical" alt="GitHub Streak" />
+   <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=radical" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
