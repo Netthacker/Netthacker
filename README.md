@@ -22,18 +22,19 @@ Here are some of the main technologies and tools I work with:
   <!-- Add more technologies as needed -->
 </p>
 
-## Featured Projects
+## My Free Featured Projects in GitHub
 
 Here are some of my most recent and significant projects:
 
-### Notifications in Microservice(https://github.com/Netthacker/MicroServerNotifications/tree/main)
-Brief description of the project.
+### [Notifications in Microservice](https://github.com/Netthacker/MicroServerNotifications/tree/main)
+A microservice-based notifications system designed to handle and dispatch notifications across different services. This project demonstrates my ability to create scalable and maintainable microservices using modern technologies.
 
-### Sistema Para bolão da copa(https://github.com/Netthacker/PoolComplete)
-Brief description of the project.
+### [World Cup Pool System](https://github.com/Netthacker/PoolComplete)
+A complete system for managing World Cup betting pools, including user registration, bet submission, and scoring. This project showcases my skills in building full-stack applications with a focus on user interaction and real-time updates.
 
-### Ficha para RPG D&D(https://github.com/Netthacker/Ficha-D-D)
-Brief description of the project.
+### [RPG D&D Character Sheet](https://github.com/Netthacker/Ficha-D-D)
+An application for creating and managing character sheets for Dungeons & Dragons (D&D). This project highlights my experience in developing tools for tabletop games, including form handling, data persistence, and user-friendly interfaces.
+
 
 <!-- Continue adding more projects as needed -->
 
@@ -48,17 +49,13 @@ Brief description of the project.
 </p>
 
 
-### GitHub Trophies
+### My GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=radical&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
 </p>
 
-### Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=netthacker&color=blueviolet" alt="Profile Views" />
-</p>
+### Most Used Languages
 <!-- Commit language graph -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=radical" alt="Most Used Languages" />
