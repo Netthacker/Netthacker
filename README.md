@@ -50,7 +50,7 @@ Brief description of the project.
 
 <!-- Commit language graph -->
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=radical" alt="GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=radical" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
