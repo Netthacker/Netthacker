@@ -26,9 +26,21 @@ Here are some of the main technologies and tools I work with:
 </p>
 
 ## Certifications
+<p align="left">
+  <ul>
+    <li><img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco%20Network%20Academy-blue" alt="Cybersecurity Essentials" /></li>
+    <li><img src="https://img.shields.io/badge/Team%20Resource%20Management-ASE--001-blue" alt="Team Resource Management" /></li>
+  </ul>
+</p>
+
+## Contact
+
+If you wish to get in touch with me, you can find me at:
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco%20Network%20Academy-blue" alt="Cybersecurity Essentials" />
-  <img src="https://img.shields.io/badge/Team%20Resource%20Management-ASE--001-blue" alt="Team Resource Management" />
+  <a href="https://www.linkedin.com/in/lucas-brigido-de-oliveira-1b5aba150/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:brigido.lbo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/lucas_brigido_16/"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
 </p>
 
 ## Open Source Projects in GitHub
@@ -67,13 +79,6 @@ An application for creating and managing character sheets for Dungeons & Dragons
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&theme=algolia" alt="Most Used Languages" />
 </p>
-
-## Contact
-
-If you wish to get in touch with me, you can find me at:
-
-- [LinkedIn](https://www.linkedin.com/in/lucas-brigido-de-oliveira-1b5aba150/)
-- [Email](mailto:brigido.lbo@gmail.com)
 
 ---
 
