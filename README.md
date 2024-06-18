@@ -25,7 +25,7 @@ Here are some of the main technologies and tools I work with:
   <!-- Add more technologies as needed -->
 </p>
 
-## Certifications
+## Others Certifications
 <p align="left">
   <ul>
     <li><img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco%20Network%20Academy-blue" alt="Cybersecurity Essentials" /></li>
