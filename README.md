@@ -51,13 +51,13 @@ Brief description of the project.
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=radical&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
 </p>
 
 ### Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=netthacker&color=blueviolet" alt="Profile Views" />
 </p>
 <!-- Commit language graph -->
 <p align="center">
