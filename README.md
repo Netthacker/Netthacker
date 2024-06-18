@@ -2,9 +2,8 @@
 
 Hello! I am Lucas Brigido, a developer passionate about creating innovative and efficient solutions. This repository is a summary of the projects and technologies I work with. Feel free to explore and learn more about my experience and skills.
 
-## My Background
-Innovative and dedicated professional with over 6 years of experience in Information Systems and more than 10 years of experience working in the Brazilian Air Force. In this role, I have participated in various programming projects, including creating automation solutions and developing a cargo materials management system. I possess exceptional interpersonal skills and the ability to work effectively in high-pressure environments. Fluent in English and Portuguese.
-
+## About Me
+Dedicated professional with over 6 years of experience in Information Systems and more than 10 years of experience working in the Brazilian Air Force. In this role, I have participated in various programming projects, including creating automation solutions and developing a cargo materials management system. I possess exceptional interpersonal skills and the ability to work effectively in high-pressure environments.
 
 ## Technologies I Use
 
@@ -26,9 +25,15 @@ Here are some of the main technologies and tools I work with:
   <!-- Add more technologies as needed -->
 </p>
 
-## My Free Featured Projects in GitHub
+## Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Essentials-Cisco%20Network%20Academy-blue" alt="Cybersecurity Essentials" />
+  <img src="https://img.shields.io/badge/Team%20Resource%20Management-ASE--001-blue" alt="Team Resource Management" />
+</p>
 
-Here are some of my most recent and significant projects:
+## Open Source Projects in GitHub
+
+Here are some of my most recent and significant projects available to the community on GitHub:
 
 ### [Notifications in Microservice](https://github.com/Netthacker/MicroServerNotifications/tree/main)
 A microservice-based notifications system designed to handle and dispatch notifications across different services. This project demonstrates my ability to create scalable and maintainable microservices using modern technologies.
@@ -38,7 +43,6 @@ A complete system for managing World Cup betting pools, including user registrat
 
 ### [RPG D&D Character Sheet](https://github.com/Netthacker/Ficha-D-D)
 An application for creating and managing character sheets for Dungeons & Dragons (D&D). This project highlights my experience in developing tools for tabletop games, including form handling, data persistence, and user-friendly interfaces.
-
 
 <!-- Continue adding more projects as needed -->
 
@@ -51,7 +55,6 @@ An application for creating and managing character sheets for Dungeons & Dragons
   <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=algolia" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=algolia" alt="GitHub Streak" />
 </p>
-
 
 ### My GitHub Trophies
 
