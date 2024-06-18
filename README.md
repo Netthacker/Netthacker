@@ -2,6 +2,10 @@
 
 Hello! I am Lucas Brigido, a developer passionate about creating innovative and efficient solutions. This repository is a summary of the projects and technologies I work with. Feel free to explore and learn more about my experience and skills.
 
+## My Background
+Innovative and dedicated professional with over 6 years of experience in Information Systems and more than 10 years of experience working in the Brazilian Air Force. In this role, I have participated in various programming projects, including creating automation solutions and developing a cargo materials management system. I possess exceptional interpersonal skills and the ability to work effectively in high-pressure environments. Fluent in English and Portuguese.
+
+
 ## Technologies I Use
 
 Here are some of the main technologies and tools I work with:
@@ -44,21 +48,21 @@ An application for creating and managing character sheets for Dungeons & Dragons
 
 <!-- GitHub contribution image -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=algolia" alt="GitHub Streak" />
 </p>
 
 
 ### My GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=radical&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=algolia&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
 </p>
 
 ### Most Used Languages
 <!-- Commit language graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&theme=algolia" alt="Most Used Languages" />
 </p>
 
 ## Contact
