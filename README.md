@@ -1,4 +1,4 @@
-# Welcome to My Development Portfolio
+# Welcome to My GitHub
 
 Hello! I am Lucas Brigido, a developer passionate about creating innovative and efficient solutions. This repository is a summary of the projects and technologies I work with. Feel free to explore and learn more about my experience and skills.
 
@@ -38,10 +38,16 @@ Here are some of the main technologies and tools I work with:
 If you wish to get in touch with me, you can find me at:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-brigido-de-oliveira-1b5aba150/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:brigido.lbo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/lucas_brigido_16/"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/lucas-brigido-de-oliveira-1b5aba150/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:brigido.lbo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/lucas_brigido_16/"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+</br>
+
+---
+
+</br>
 
 ## Open Source Projects in GitHub
 
@@ -63,23 +69,18 @@ An application for creating and managing character sheets for Dungeons & Dragons
 ### My GitHub Stats
 
 <!-- GitHub contribution image -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=algolia" alt="GitHub Streak" />
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=transparent&hide=stars&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=transparent" alt="Most Used Languages" />
 </p>
-
-### My GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netthacker&theme=algolia&no-frame=true&row=1&column=4&title=MultiLanguage,Repositories,Commits,Experience" alt="GitHub Trophies" />
-</p>
-
-### Most Used Languages
-<!-- Commit language graph -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&theme=algolia" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ---
-
+<p align="center">
 Thank you very much for visiting my GitHub profile! If you liked what you saw, feel free to follow me and get in touch.
+</p>
