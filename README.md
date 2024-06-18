@@ -71,9 +71,9 @@ An application for creating and managing character sheets for Dungeons & Dragons
 <!-- GitHub contribution image -->
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=transparent&hide=stars&rank_icon=github" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=transparent" alt="Most Used Languages" />
 </p>
 <p align="center">
