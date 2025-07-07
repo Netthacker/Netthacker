@@ -63,7 +63,7 @@ A complete system for managing World Cup betting pools, including user registrat
 An application for creating and managing character sheets for Dungeons & Dragons (D&D). This project highlights my experience in developing tools for tabletop games, including form handling, data persistence, and user-friendly interfaces.
 
 <!-- Continue adding more projects as needed -->
-
+<!--
 ## GitHub Contributions
 
 ### My GitHub Stats
@@ -71,14 +71,14 @@ An application for creating and managing character sheets for Dungeons & Dragons
 <!-- GitHub contribution image -->
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=transparent&hide=stars&rank_icon=github" alt="GitHub Stats" />
+<!--   &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=netthacker&show_icons=true&theme=transparent&hide=stars&rank_icon=github" alt="GitHub Stats" /> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netthacker&layout=compact&theme=transparent" alt="Most Used Languages" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=netthacker&theme=transparent" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 <p align="center">
